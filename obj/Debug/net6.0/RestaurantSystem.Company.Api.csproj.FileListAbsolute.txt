@@ -61,3 +61,7 @@ C:\PROJECTS\CodeYis.RestaurantSystem.Company.Api\obj\Debug\net6.0\refint\Restaur
 C:\PROJECTS\CodeYis.RestaurantSystem.Company.Api\obj\Debug\net6.0\RestaurantSystem.Company.Api.pdb
 C:\PROJECTS\CodeYis.RestaurantSystem.Company.Api\obj\Debug\net6.0\RestaurantSystem.Company.Api.genruntimeconfig.cache
 C:\PROJECTS\CodeYis.RestaurantSystem.Company.Api\obj\Debug\net6.0\ref\RestaurantSystem.Company.Api.dll
+C:\PROJECTS\CodeYis.RestaurantSystem.Company.Api\bin\Debug\net6.0\MediatR.dll
+C:\PROJECTS\CodeYis.RestaurantSystem.Company.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\PROJECTS\CodeYis.RestaurantSystem.Company.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\PROJECTS\CodeYis.RestaurantSystem.Company.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
