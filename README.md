@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/somady12/c4fe0a0c-dc64-4169-acd0-145cbc3e8c54/a11813e9-a825-4688-a450-2f08d68cee74/_apis/work/boardbadge/d789194c-c81e-44ab-9d33-48646822a527)](https://dev.azure.com/somady12/c4fe0a0c-dc64-4169-acd0-145cbc3e8c54/_boards/board/t/a11813e9-a825-4688-a450-2f08d68cee74/Microsoft.RequirementCategory)
